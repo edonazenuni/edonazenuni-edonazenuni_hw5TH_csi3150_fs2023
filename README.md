@@ -11,7 +11,7 @@ Functional Features:
 -	Score calculation of the final score based on correct answers.
 -	Restriction on undoing a selected answer.
 -	Users may exit and restart the quiz.
--	
+
 
 Directory Structure:
 
