@@ -15,10 +15,10 @@ Functional Features:
 
 Directory Structure:
 
-Index.html: The main HTML file. Entry point for application. Holds the quiz box, information box, and result box. It’s connected to the CSS and JavaScript files to provide interactivity.
-CSS/Style.css: This file is responsible for all the styling, visual appearance, and layout of the application. 
-Js/Questions.js: This file holds the array of questions consisting of the question number, question, answer, and options. Populates the quiz box in index.html with the question-and-answer options.
-Js/quizApp.js: This file holds the main functionality of the quiz application. This file interacts with elements in the HTML file and includes the timer, user inputs, and final score calculations.
+- Index.html: The main HTML file. Entry point for application. Holds the quiz box, information box, and result box. It’s connected to the CSS and JavaScript files to provide interactivity.
+- CSS/Style.css: This file is responsible for all the styling, visual appearance, and layout of the application. 
+- Js/Questions.js: This file holds the array of questions consisting of the question number, question, answer, and options. Populates the quiz box in index.html with the question-and-answer options.
+- Js/quizApp.js: This file holds the main functionality of the quiz application. This file interacts with elements in the HTML file and includes the timer, user inputs, and final score calculations.
 
 Codebase Explanation: 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
